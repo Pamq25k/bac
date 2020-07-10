@@ -1,0 +1,29 @@
+{
+  "ste": [
+    {
+      "name": "math",
+      "label": "Mathematiques",
+      "factor": 7
+    },
+    {
+      "name": "phys",
+      "label": "Physique et Chimie",
+      "factor": 5
+    },
+    {
+      "name": "si",
+      "label": "Sciences Ingénieures",
+      "factor": 8
+    },
+    {
+      "name": "philo",
+      "label": "Philosophie",
+      "factor": 2
+    },
+    {
+      "name": "en",
+      "label": "Anglais",
+      "factor": 2
+    }
+  ]
+}
